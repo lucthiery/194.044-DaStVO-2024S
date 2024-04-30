@@ -1,7 +1,7 @@
 # 194.044-DaStVO-2024S
 Repository for Exercises of the TU Wien course: 194.044-DaStVO-2024S
 
-Project: Predictive Maintenance for Wind Turbines
+# Project: Predictive Maintenance for Wind Turbines
 
 This experiment aims to develop a predictive maintenance model for wind turbines using machine
 learning techniques. Wind turbines are crucial for renewable energy generation, but unexpected
