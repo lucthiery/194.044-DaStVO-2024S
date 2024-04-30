@@ -11,24 +11,46 @@ and failure events. The goal is to predict potential failures in wind turbines b
 enabling proactive maintenance scheduling and optimization of maintenance resources. H0 can a
 model be built to predict failure, H1 no model can be build.
 
+## Repository Structure
+
+### 1_Data
+README.md -> In detail description of the datasets and variables.
+
+S_Data Merged -> Final Merged Dataset that will be used for the final model and report.
+S1 -> Complete copy of the original Dataset of Source 1
+S2 -> Complete copy of the original Dataset of Source 2
+
+### 2_Code
+README.md -> In detail description of the code structure and all code related files.
+
+### 3_Models
+README.md ->  In detail description of the models and their performance.
+
+(Model_1) -> Model_1 
+(Model_2) -> Model_2
+.....
+
+### 4_Reports
+README.md -> Metadata documentation of the reports and its version etc. 
+
+Final.pdf -> Final
+
 ## Data Sources
 
 S1. Wind Turbine High-Speed Bearing Prognosis: The dataset tracks vibration signals from a 2MW
 wind turbine's high-speed shaft to monitor the development of an inner race fault leading to
 bearing failure over 50 consecutive days.
+
 Link: https://de.mathworks.com/help/predmaint/ug/wind-turbine-high-speed-bearingprognosis.
 html
 
 S2. Wind Turbine Scada Dataset: This dataset, available on Kaggle, focuses specifically on wind
 turbine failures. It includes information on the type of failure, time of occurrence, turbine
 specifications, and environmental conditions leading up to the failure events.
+
 Link: https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset/data
 
-S3. NREL Wind Turbine Dataset: This dataset, provided by the National Renewable Energy
-Laboratory (NREL), includes operational data from various wind turbines, such as wind
-speed, turbine rotational speed, power output, and environmental conditions. It also contains
-information on maintenance activities and failure events
-Link: https://gds-files.nrelcloud.org/archive/wind-prospector.zip
+
 
 
 
