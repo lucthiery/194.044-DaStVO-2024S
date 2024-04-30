@@ -17,7 +17,9 @@ model be built to predict failure, H1 no model can be build.
 README.md -> In detail description of the datasets and variables.
 
 S_Data Merged -> Final Merged Dataset that will be used for the final model and report.
+
 S1 -> Complete copy of the original Dataset of Source 1
+
 S2 -> Complete copy of the original Dataset of Source 2
 
 ### 2_Code
@@ -27,6 +29,7 @@ README.md -> In detail description of the code structure and all code related fi
 README.md ->  In detail description of the models and their performance.
 
 (Model_1) -> Model_1 
+
 (Model_2) -> Model_2
 .....
 
