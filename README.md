@@ -11,7 +11,7 @@ and failure events. The goal is to predict potential failures in wind turbines b
 enabling proactive maintenance scheduling and optimization of maintenance resources. H0 can a
 model be built to predict failure, H1 no model can be build.
 
-Data Sources
+## Data Sources
 
 S1. Wind Turbine High-Speed Bearing Prognosis: The dataset tracks vibration signals from a 2MW
 wind turbine's high-speed shaft to monitor the development of an inner race fault leading to
